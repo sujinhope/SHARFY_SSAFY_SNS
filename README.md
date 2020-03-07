@@ -2,7 +2,11 @@
 
 <center><img src="https://user-images.githubusercontent.com/33229855/75741484-0d49e400-5d4e-11ea-9eed-744b53d5cf87.png"/></center>
 
-<br/><br/><br/>
+<br/><br/>
+
+SSAFY 규정상 코드공개가 불가능하여 문서와 자료만 올립니다.
+
+<br/>
 
 
 
